@@ -69,3 +69,7 @@ JSON.
 - Node JS
 - terminal en linea para correr los scripts  en PHP : https://www.mycompiler.io/es/new/php  
 
+## ejecución de los scripts
+direccion  para correr los el backend de node js: 
+ url: http://localhost:3000/users
+
